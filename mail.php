@@ -33,7 +33,7 @@ require './vendor/autoload.php';
 // Replace sender@example.com with your "From" address.
 // This address must be verified with Amazon SES.
 $sender = 'noreply.blueberry@gmail.com';
-$senderName = 'Pagina Rapidisimo';
+$senderName = 'Pagina TDMEX';
 
 // Replace recipient@example.com with a "To" address. If your account
 // is still in the sandbox, this address must be verified.
@@ -61,7 +61,7 @@ $host = 'smtp.gmail.com';
 $port = 587;
 
 // The subject line of the email
-$subject = 'Mensaje de rapidisimo en la web';
+$subject = 'Mensaje de TDMEX en la web';
 
 // The plain-text body of the email
 $bodyText =  "Correo de la web";
