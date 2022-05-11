@@ -37,12 +37,12 @@ $senderName = 'Pagina TDMEX';
 
 // Replace recipient@example.com with a "To" address. If your account
 // is still in the sandbox, this address must be verified.
-$recipient = 'pruebascorreosbb@gmail.com';
+$recipient1 = 'pruebascorreosbb@gmail.com';
 $recipient = 'noreply.blueberry@gmail.com';
-$recipient = 'contabilidad@tdmex.com.mx';
-$recipient = 'fidelberry1@gmail.com';
-$recipient = 'soluciones.logisticas@tdmex.com.mx';
-$recipient = 'blueberryweb7@gmail.com';
+$recipient2 = 'contabilidad@tdmex.com.mx';
+$recipient3 = 'fidelberry1@gmail.com';
+$recipient4 = 'soluciones.logisticas@tdmex.com.mx';
+$recipient5 = 'blueberryweb7@gmail.com';
 
 // Replace smtp_username with your Amazon SES SMTP user name.
 $usernameSmtp = 'noreply.blueberry@gmail.com';
@@ -149,6 +149,12 @@ try {
 
   // Specify the message recipients.
   $mail->addAddress($recipient);
+  $mail->addAddress($recipient1);
+  $mail->addAddress($recipient2);
+  $mail->addAddress($recipient3);
+  $mail->addAddress($recipient4);
+  $mail->addAddress($recipient5);
+
   // You can also add CC, BCC, and additional To recipients here.
 
   // Specify the content of the message.
