@@ -41,8 +41,8 @@
             <div class=" col-lg-8 text-center"> 
               <div class="contact-div text-center d-none d-sm-none d-md-block contact-video ">
                 <h3> CONTÁCTANOS</h3><br>
-                <a class="text-white" href="https://api.whatsapp.com/send?phone=523325070796" target="_blank" rel="noopener noreferrer">
-                  <strong><h4> <i class="fa-brands fa-whatsapp"></i>33 2507 0796</h4></strong>
+                <a class="text-white" href="https://api.whatsapp.com/send?phone=523334118254" target="_blank" rel="noopener noreferrer">
+                  <strong><h4> <i class="fa-brands fa-whatsapp"></i>33 3411 8254</h4></strong>
                 </a>
               </div>
             </div>
@@ -116,8 +116,8 @@
           <div class=" col-lg-7 text-center"> 
               <div class="contact-div text-center d-none d-sm-none d-md-block contact-video ">
                 <h3> CONTÁCTANOS</h3><br>
-                <a class="text-white" href="https://api.whatsapp.com/send?phone=523325070796" target="_blank" rel="noopener noreferrer">
-                  <strong><h4> <i class="fa-brands fa-whatsapp"></i>33 2507 0796</h4></strong>
+                <a class="text-white" href="https://api.whatsapp.com/send?phone=523334118254" target="_blank" rel="noopener noreferrer">
+                  <strong><h4> <i class="fa-brands fa-whatsapp"></i>33 3411 8254</h4></strong>
                 </a>
               </div>
             </div>
@@ -135,7 +135,7 @@
             <div class="col-lg-6 text-center mt-5" data-aos="fade-right" data-aos-duration="1500">
               <img src="images/inicio/soporte.png" class="img-fluid">
               <h5>SOPORTE</h5>
-              <p class="mb-0">¿Tienes dudas o comentarios acerca de<br>  nuestros servicios? <br> Comunícate con nosotros a <br> través de nuestro <br> <span class="ff-SourceSansPro-Bold">Whatsapp <a class="dark-grey-color" href="tel:3325070796"> 33 2507 0796</a></span> </p>
+              <p class="mb-0">¿Tienes dudas o comentarios acerca de<br>  nuestros servicios? <br> Comunícate con nosotros a <br> través de nuestro <br> <span class="ff-SourceSansPro-Bold">Whatsapp <a class="dark-grey-color" href="tel:3325070796"> 33 3411 8254</a></span> </p>
               <p class="ff-SourceSansPro-Bold">
                 <a href="mailto:contacto@tdmex.mx" class="dark-grey-color" >contacto@tdmex.mx</a>
               </p>
@@ -181,8 +181,8 @@
               <div class="text-center"> 
               <div class="contact-div text-center d-none d-sm-none d-md-block contact-video ">
                 <h3> CONTÁCTANOS</h3><br>
-                <a class="text-white" href="https://api.whatsapp.com/send?phone=523325070796" target="_blank" rel="noopener noreferrer">
-                  <strong><h4> <i class="fa-brands fa-whatsapp"></i>33 2507 0796</h4></strong>
+                <a class="text-white" href="https://api.whatsapp.com/send?phone=523334118254" target="_blank" rel="noopener noreferrer">
+                  <strong><h4> <i class="fa-brands fa-whatsapp"></i>33 3411 8254</h4></strong>
                 </a>
               </div>
             </div>
@@ -316,8 +316,8 @@
             <div class="col-lg-5 text-center"> 
               <div class="contact-div text-center d-none d-sm-none d-md-block contact-video ">
                 <h3> CONTÁCTANOS</h3><br>
-                <a class="text-white" href="https://api.whatsapp.com/send?phone=523325070796" target="_blank" rel="noopener noreferrer">
-                  <strong><h4> <i class="fa-brands fa-whatsapp"></i>33 2507 0796</h4></strong>
+                <a class="text-white" href="https://api.whatsapp.com/send?phone=523334118254" target="_blank" rel="noopener noreferrer">
+                  <strong><h4> <i class="fa-brands fa-whatsapp"></i>33 3411 8254</h4></strong>
                 </a>
               </div>
             </div>

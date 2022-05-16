@@ -94,7 +94,7 @@
               <h3 class="green-color text-center s-in" data-aos="zoom-in-up" data-aos-duration="1500">SOPORTE</h3>
             </div>  
             <div class="col-12 col-lg-4 offset-lg-2  text-center" data-aos="fade-right" data-aos-duration="1500">  
-              <a href="https://web.whatsapp.com/send?l=en&phone=523325070796&text=Hola" target="_blank" class="text-white text-center">
+              <a href="https://web.whatsapp.com/send?l=en&phone=523334118254&text=Hola" target="_blank" class="text-white text-center">
                 <img src="images/nosotros/wha.png" alt="..." class="img-fluid ">
                 </a>
                 <h5 class="mt-5">AYUDA Y SOPORTE</h5>

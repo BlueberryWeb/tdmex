@@ -37,7 +37,7 @@
                 Hacienda de Vidrio, 45580  <br>San Pedro Tlaquepaque, Jal.</p>
               <img data-aos="fade-left" data-aos-duration="2500" src="images/contactanos/whatsapp.png" alt="..." class="img-fluid mb-3 mt-5">
               <p class="">ESCRÍBENOS</p>
-              <a href="https://web.whatsapp.com/send?l=en&phone=523325070796&text=Hola" target="_blank" class="grey-color">33 2507 0796</a><br><br>
+              <a href="https://web.whatsapp.com/send?l=en&phone=523334118254&text=Hola" target="_blank" class="grey-color">33 3411 8254</a><br><br>
               <i class="fas fa-envelope fa-2x mt-4 green-color" data-aos="fade-left" data-aos-duration="2500"></i> <br><br>
               <a href="mailto:contacto@tdmex.mx" class="grey-color mt-3" > contacto@tdmex.mx</a>
             </div>  

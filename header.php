@@ -40,7 +40,7 @@
                 </li>-->
                 <li class="nav-item text-center d-block d-sm-block d-md-none">
                     <small class="text-white" > CONTÁCTANOS</small><br>
-                    <a class="text-white nav-link " href="https://api.whatsapp.com/send?phone=523325070796" target="_blank" rel="noopener noreferrer"><strong><i class="fa-brands fa-whatsapp"></i>33 2507 0796</strong></a>
+                    <a class="text-white nav-link " href="https://api.whatsapp.com/send?phone=523334118254" target="_blank" rel="noopener noreferrer"><strong><i class="fa-brands fa-whatsapp"></i>33 3411 8254</strong></a>
                 </li>
               </ul> 
           </div>
@@ -49,7 +49,7 @@
       <div class="d-none d-sm-none d-lg-block col-lg-3 "> 
         <div class="contact-div text-center d-none d-sm-none d-md-block ">
           <small> CONTÁCTANOS</small><br>
-          <a class="text-white" href="https://api.whatsapp.com/send?phone=523325070796" target="_blank" rel="noopener noreferrer"><strong><i class="fa-brands fa-whatsapp"></i>33 2507 0796</strong></a>
+          <a class="text-white" href="https://api.whatsapp.com/send?phone=523334118254" target="_blank" rel="noopener noreferrer"><strong><i class="fa-brands fa-whatsapp"></i>33 3411 8254</strong></a>
         </div>
       </div>
     </div>

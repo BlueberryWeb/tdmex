@@ -53,9 +53,9 @@
       <div class="col-lg-4" data-aos="zoom-in-up" data-aos-duration="1500">
         <h5 class="footer-color">OFICINA</h5> 
         <p class="footer-color ff-SourceSansPro-Bold">45580 Córdoba 23, Hacienda de Vidrio, 45580 San Pedro Tlaquepaque, Jal.</p>
-        <h5><a href="tel:3325070796" class="footer-color"><i class="fas fa-phone"></i> 33 2507 0796</a> </h5>
+        <h5><a href="tel:3325070796" class="footer-color"><i class="fas fa-phone"></i> 33 3411 8254</a> </h5>
         <h5> 
-          <a href="https://web.whatsapp.com/send?l=en&phone=523325070796&text=Hola" target="_blank" class="footer-color"><i class="fab fa-whatsapp"></i> 33 2507 0796</a>
+          <a href="https://web.whatsapp.com/send?l=en&phone=523334118254&text=Hola" target="_blank" class="footer-color"><i class="fab fa-whatsapp"></i> 33 3411 8254</a>
         </h5>
         <h5> 
           <a href="mailto:contacto@tdmex.mx"  class="footer-color"><i class="fas fa-envelope"></i> contacto@tdmex.mx</a>

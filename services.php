@@ -33,8 +33,8 @@
               <h2 class="text-center text-white">¿NECESITAS HACER UN ENVÍO HOY MISMO?</h2> 
               <h2 class="text-center text-white ff-SourceSansPro-BlackItalic">COMUNÍCATE CON NOSOTROS</h2> 
               <h2 class="text-center text-white"> 
-                  <a href="https://web.whatsapp.com/send?l=en&phone=523325070796&text=Hola" target="_blank" class="text-white text-center"> 
-                  <img src="images/servicios/whatsapp.png" alt="TDMEX" class="img-fluid whatsapp-icon"> 33 2507 0796
+                  <a href="https://web.whatsapp.com/send?l=en&phone=523334118254&text=Hola" target="_blank" class="text-white text-center"> 
+                  <img src="images/servicios/whatsapp.png" alt="TDMEX" class="img-fluid whatsapp-icon"> 33 3411 8254
                 </a>
               </h2> 
             </div>   
