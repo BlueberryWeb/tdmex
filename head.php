@@ -14,8 +14,9 @@
     <link href="css/bootstrap.css"  rel="stylesheet"/> 
     <link href="css/bootstrap.min.css" rel="stylesheet" />  
     <link href="css/styles.css"  rel="stylesheet"/>  
-    <link href="css/responsive.css"  rel="stylesheet"/>  
-    <link href="//use.fontawesome.com/releases/v5.6.3/css/all.css"    rel="stylesheet"/>  
+    <link href="css/responsive.css"  rel="stylesheet"/> 
+    <script src="https://kit.fontawesome.com/4514d9060c.js" ></script> 
+    <!--<link href="//use.fontawesome.com/releases/v5.6.3/css/all.css"    rel="stylesheet"/>  -->
     <!-- AOS -->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <style type="text/css">

@@ -89,6 +89,13 @@ a:hover{
 	max-width: 80%;
 	float: right;
 }
+.contact-div i{
+	margin-right: 10px;
+}
+.contact-video {
+	width: 350px;
+	height: 150px;
+}
 .header-option{
     z-index: 999;
     position: relative;

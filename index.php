@@ -38,6 +38,14 @@
                 <img src="images/inicio/tdvideo.png" class="img-fluid mx-auto d-block mb-3">
               </button>
             </div>
+            <div class=" col-lg-8 text-center"> 
+              <div class="contact-div text-center d-none d-sm-none d-md-block contact-video ">
+                <h3> CONTÁCTANOS</h3><br>
+                <a class="text-white" href="https://api.whatsapp.com/send?phone=523325070796" target="_blank" rel="noopener noreferrer">
+                  <strong><h4> <i class="fa-brands fa-whatsapp"></i>33 2507 0796</h4></strong>
+                </a>
+              </div>
+            </div>
             <!-- <div class="col-lg-3 text-center" data-aos="zoom-in-up" data-aos-duration="1500">
               <img src="images/inicio/furgonta.png" class="img-fluid icon-van mx-auto d-block mb-3">
               <div class="row mt-5">
@@ -105,6 +113,14 @@
               <p class="text-center text-white">Experiencia y Transporte</p>
             </div>
           </div> 
+          <div class=" col-lg-7 text-center"> 
+              <div class="contact-div text-center d-none d-sm-none d-md-block contact-video ">
+                <h3> CONTÁCTANOS</h3><br>
+                <a class="text-white" href="https://api.whatsapp.com/send?phone=523325070796" target="_blank" rel="noopener noreferrer">
+                  <strong><h4> <i class="fa-brands fa-whatsapp"></i>33 2507 0796</h4></strong>
+                </a>
+              </div>
+            </div>
         </div>
       </div>
 
@@ -162,6 +178,14 @@
               <span class="develery-title">Envíos</span>  
               <h3 class="ff-SourceSansPro-Regular ask-up text-white">Seguimiento y requerimiento<br> de órdenes </h3>  
               <p class="text-white text-justify required-txt">Solicita y haz seguimiento de tu servicio puerta a puerta en  el momento que desees. Hacemos entregas el mismo día de   ser requerido. </p>
+              <div class="text-center"> 
+              <div class="contact-div text-center d-none d-sm-none d-md-block contact-video ">
+                <h3> CONTÁCTANOS</h3><br>
+                <a class="text-white" href="https://api.whatsapp.com/send?phone=523325070796" target="_blank" rel="noopener noreferrer">
+                  <strong><h4> <i class="fa-brands fa-whatsapp"></i>33 2507 0796</h4></strong>
+                </a>
+              </div>
+            </div>
               <div class="green-div">
                 <h3 class="text-white ff-SourceSansPro-Regular"> ¿Necesitas ayuda?</h3>
                 <a href="#contactform" class="btn btn-white-line text-white">CONTÁCTANOS <i class="fas fa-arrow-right ml-3"></i>  </a>
@@ -289,6 +313,14 @@
                 </div>
               </form>
             </div>  
+            <div class="col-lg-5 text-center"> 
+              <div class="contact-div text-center d-none d-sm-none d-md-block contact-video ">
+                <h3> CONTÁCTANOS</h3><br>
+                <a class="text-white" href="https://api.whatsapp.com/send?phone=523325070796" target="_blank" rel="noopener noreferrer">
+                  <strong><h4> <i class="fa-brands fa-whatsapp"></i>33 2507 0796</h4></strong>
+                </a>
+              </div>
+            </div>
           </div>
         </div> 
       </div>  

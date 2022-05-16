@@ -33,16 +33,15 @@ require './vendor/autoload.php';
 // Replace sender@example.com with your "From" address.
 // This address must be verified with Amazon SES.
 $sender = 'noreply.blueberry@gmail.com';
-$senderName = 'Pagina TDMEX';
+$senderName = 'Pagina Rapidisimo';
 
 // Replace recipient@example.com with a "To" address. If your account
 // is still in the sandbox, this address must be verified.
-$recipient1 = 'pruebascorreosbb@gmail.com';
-$recipient2 = 'noreply.blueberry@gmail.com';
-$recipient3 = 'contabilidad@tdmex.com.mx';
-$recipient4 = 'fidelberry1@gmail.com';
-$recipient5 = 'soluciones.logisticas@tdmex.com.mx';
-$recipient6 = 'blueberryweb7@gmail.com';
+$recipient = 'pruebascorreosbb@gmail.com';
+$recipient = 'noreply.blueberry@gmail.com';
+$recipient = 'contabilidad@tdmex.com.mx';
+$recipient = 'fidelberry1@gmail.com';
+$recipient = 'soluciones.logisticas@tdmex.com.mx';
 
 // Replace smtp_username with your Amazon SES SMTP user name.
 $usernameSmtp = 'noreply.blueberry@gmail.com';
@@ -61,7 +60,7 @@ $host = 'smtp.gmail.com';
 $port = 587;
 
 // The subject line of the email
-$subject = 'Mensaje de TDMEX en la web';
+$subject = 'Mensaje de rapidisimo en la web';
 
 // The plain-text body of the email
 $bodyText =  "Correo de la web";
@@ -148,13 +147,7 @@ try {
   $mail->addCustomHeader('X-SES-CONFIGURATION-SET', $configurationSet);
 
   // Specify the message recipients.
-  $mail->addAddress($recipient1);
-  $mail->addAddress($recipient2);
-  $mail->addAddress($recipient3);
-  $mail->addAddress($recipient4);
-  $mail->addAddress($recipient5);
-  $mail->addAddress($recipient6);
-
+  $mail->addAddress($recipient);
   // You can also add CC, BCC, and additional To recipients here.
 
   // Specify the content of the message.
