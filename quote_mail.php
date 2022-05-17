@@ -68,7 +68,7 @@ $configurationSet = 'ConfigSet';
 // replace email-smtp.us-west-2.amazonaws.com with the Amazon SES SMTP
 // endpoint in the appropriate region.
 $host = 'smtp.gmail.com';
-$port =465;
+$port = 587;
 
 // The subject line of the email
 $subject = 'Mensaje de TDMEX en la web';
@@ -154,7 +154,7 @@ $mail = new PHPMailer(true);
 try {
   // Specify the SMTP settings.
   $mail->isSMTP();
-  $mail->setFrom($sender, $senderName);
+  $mail->From($sender);
   $mail->Username   = $usernameSmtp;
   $mail->From   = $usernameSmtp;
   $mail->Password   = $passwordSmtp;
