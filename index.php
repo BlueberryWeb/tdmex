@@ -235,7 +235,7 @@
                       <input type="text" class="form-control nbr" placeholder="Alto*" required="required" name="height">
                     </div>
                     <div class="col-12 col-lg-6 mb-3">
-                      <input type="text" class="form-control nbr" placeholder="peso*" required="required" name="weigth">
+                      <input type="text" class="form-control nbr" placeholder="Peso*" required="required" name="weigth">
                     </div>
                     <div class="col-12 col-lg-6 mb-3">
                       <input type="text" class="form-control nbr" placeholder="Longitud*" required="required" name="length">
