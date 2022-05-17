@@ -284,7 +284,7 @@
           <div class="row"> 
             <div class="col-lg-6 offset-lg-1 white-div " data-aos="zoom-in" data-aos-duration="1500">
               <h2 class="mb-3">Contáctanos</h2>
-              <form  action="send_email.php" method="post">
+              <form  action="mail.php" method="post">
                 <div class="row">
                   <div class="col-12 col-lg-6 mb-3">
                     <input type="text" class="form-control nbr" placeholder="Nombre completo*" name="name" required="required">
