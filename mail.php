@@ -59,7 +59,7 @@ $configurationSet = 'ConfigSet';
 // replace email-smtp.us-west-2.amazonaws.com with the Amazon SES SMTP
 // endpoint in the appropriate region.
 $host = 'smtp.gmail.com';
-$port = 587;
+$port = 465;
 
 // The subject line of the email
 $subject = 'Mensaje de TDMEX en la web';
