@@ -51,6 +51,8 @@ $recipient2 = 'noreply.tdmex@gmail.com';
 $recipient3 = 'contabilidad@tdmex.com.mx';
 $recipient4 = 'fidelberry1@gmail.com';
 $recipient5 = 'soluciones.logisticas@tdmex.com.mx';
+$recipient6 = 'litdmex@gmail.com';
+$recipient7 = 'jonathan.alv.tdmex@gmail.com';
 
 // Replace smtp_username with your Amazon SES SMTP user name.
 $usernameSmtp = 'noreply.tdmex@gmail.com';
@@ -169,6 +171,8 @@ try {
   $mail->addAddress($recipient3);
   $mail->addAddress($recipient4);
   $mail->addAddress($recipient5);
+  $mail->addAddress($recipient6);
+  $mail->addAddress($recipient7);
   // You can also add CC, BCC, and additional To recipients here.
 
   // Specify the content of the message.
