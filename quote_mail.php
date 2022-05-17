@@ -48,9 +48,7 @@ $senderName = 'Pagina TDMEX';
 // is still in the sandbox, this address must be verified.
 $recipient1 = 'pruebascorreosbb@gmail.com';
 $recipient2 = 'noreply.tdmex@gmail.com';
-$recipient3 = 'contabilidad@tdmex.com.mx';
 $recipient4 = 'fidelberry1@gmail.com';
-$recipient5 = 'soluciones.logisticas@tdmex.com.mx';
 $recipient6 = 'litdmex@gmail.com';
 $recipient7 = 'jonathan.alv.tdmex@gmail.com';
 
@@ -154,7 +152,7 @@ $mail = new PHPMailer(true);
 try {
   // Specify the SMTP settings.
   $mail->isSMTP();
-  $mail->From($sender);
+  $mail->setFrom($sender, $senderName);
   $mail->Username   = $usernameSmtp;
   $mail->From   = $usernameSmtp;
   $mail->Password   = $passwordSmtp;
@@ -168,9 +166,7 @@ try {
   // Specify the message recipients.
   $mail->addAddress($recipient1);
   $mail->addAddress($recipient2);
-  $mail->addAddress($recipient3);
   $mail->addAddress($recipient4);
-  $mail->addAddress($recipient5);
   $mail->addAddress($recipient6);
   $mail->addAddress($recipient7);
   // You can also add CC, BCC, and additional To recipients here.
