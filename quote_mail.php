@@ -19,7 +19,16 @@ $nombre = trim($_POST['name']);
 $email = trim($_POST['email']);
 $telefono = trim($_POST['mobile']);
 $asunto = trim($_POST['subject']);
-$mensaje = trim($_POST['message']);
+$ciudad = trim($_POST['city']);
+$municipio = trim($_POST['town']);
+$origen = trim($_POST['from']);
+$destino = trim($_POST['delevery']);
+$ancho = trim($_POST['width']);
+$alto = trim($_POST['height']);
+$peso = trim($_POST['weigth']);
+$longitud = trim($_POST['length']);
+$tipo_envio = trim($_POST['sendtype']);
+
 
 
 // Import PHPMailer classes into the global namespace.
@@ -101,7 +110,15 @@ $bodyHtml = '
                             <li style="margin-bottom: 10px;">Correo electrónico: ' . $email . '</li>
                             <li style="margin-bottom: 10px;">Celular:  ' . $telefono . '</li>
                             <li style="margin-bottom: 10px;">Asunto:  ' . $asunto . '</li>
-                            <li style="margin-top: 40px;">Mensaje: ' . $mensaje . '</li>
+                            <li style="margin-top: 40px;">Ciudad: ' . $ciudad . '</li>
+                            <li style="margin-top: 40px;">Municipio: ' . $municipio . '</li>
+                            <li style="margin-top: 40px;">Origen: ' . $origen . '</li>
+                            <li style="margin-top: 40px;">Destino: ' . $destino . '</li>
+                            <li style="margin-top: 40px;">Ancho: ' . $ancho . '</li>
+                            <li style="margin-top: 40px;">Alto: ' . $alto . '</li>
+                            <li style="margin-top: 40px;">Peso: ' . $peso . '</li>
+                            <li style="margin-top: 40px;">Longitud: ' . $longitud . '</li>
+                            <li style="margin-top: 40px;">Tipo de envío: ' . $tipo_envio . '</li>
                             </ul>
 
                         </td>

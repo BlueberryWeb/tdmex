@@ -194,7 +194,7 @@
             <div class="col-lg-5" data-aos="fade-right" data-aos-duration="1500">
               <div class="white-form">
                 <h5 class="mb-3">Solicita tu orden</h5>
-                <form action="quote_email.php" method="post" >
+                <form action="quote_mail.php" method="post" >
                   <div class="row">
                     <div class="col-12 col-lg-6 mb-3">
                       <input type="text" class="form-control nbr" placeholder="Nombre completo*" name="name" required="required">
