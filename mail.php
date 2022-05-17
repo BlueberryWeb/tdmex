@@ -32,22 +32,22 @@ require './vendor/autoload.php';
 
 // Replace sender@example.com with your "From" address.
 // This address must be verified with Amazon SES.
-$sender = 'noreply.blueberry@gmail.com';
+$sender = 'noreply.tdmex@gmail.com';
 $senderName = 'Pagina TDMEX';
 
 // Replace recipient@example.com with a "To" address. If your account
 // is still in the sandbox, this address must be verified.
 $recipient = 'pruebascorreosbb@gmail.com';
-$recipient = 'noreply.blueberry@gmail.com';
+$recipient = 'noreply.tdmex@gmail.com';
 $recipient = 'contabilidad@tdmex.com.mx';
 $recipient = 'fidelberry1@gmail.com';
 $recipient = 'soluciones.logisticas@tdmex.com.mx';
 
 // Replace smtp_username with your Amazon SES SMTP user name.
-$usernameSmtp = 'noreply.blueberry@gmail.com';
+$usernameSmtp = 'noreply.tdmex@gmail.com';
 
 // Replace smtp_password with your Amazon SES SMTP password.
-$passwordSmtp = 'Blueberry0707';
+$passwordSmtp = 'norepl1.tdm3x';
 
 // Specify a configuration set. If you do not want to use a configuration
 // set, comment or remove the next line.
