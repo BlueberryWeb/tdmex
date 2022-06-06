@@ -90,7 +90,7 @@ $bodyHtml = '
         <table role="presentation" style="width:602px;border-collapse:collapse;border:0px solid #cccccc;border-spacing:0;text-align:left; font-family: sans-serif;">
           <tr>
             <td align="left" style="padding:10px 0 30px 0; font-family: sans-serif;">
-              <img src="https://i.postimg.cc/Kz1zh6ft/logo-sidemenu.png" alt="TDMEX" width="200" style="height:auto;display:block;" />
+              <img src="https://i.postimg.cc/ZK54mYH8/logo-tdmex-verde.png" alt="TDMEX" width="200" style="height:auto;display:block;" />
               <hr>
             </td>
           </tr>
