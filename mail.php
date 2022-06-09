@@ -14,12 +14,12 @@ require './vendor/autoload.php';
 $sender = 'noreply.tdmex@gmail.com';
 $senderName = 'Pagina TDMEX';
 $recipient1 = 'pruebascorreosbb@gmail.com';
-$recipient2 = 'noreply.blueberry@gmail.com';
+$recipient2 = 'noreply.tdmex@gmail.com';
 $recipient3 = 'fidelberry1@gmail.com';
 $recipient4 = 'ventas01bb@gmail.com';
 
 $usernameSmtp = 'noreply.tdmex@gmail.com';
-$passwordSmtp = 'oymmohjmfzqimam';
+$passwordSmtp = 'foymmohjmfzqimam';
 $configurationSet = 'ConfigSet';
 $host = 'smtp.gmail.com';
 $port = 587;
