@@ -12,7 +12,7 @@ use PHPMailer\PHPMailer\Exception;
 require './vendor/autoload.php';
 
 $sender = 'noreply.tdmex@gmail.com';
-$senderName = 'Pagina TDMEX';
+$senderName = 'Nuevo Contacto en tdmex.online';
 $recipient1 = 'pruebascorreosbb@gmail.com';
 $recipient2 = 'noreply.tdmex@gmail.com';
 $recipient3 = 'fidelberry1@gmail.com';
