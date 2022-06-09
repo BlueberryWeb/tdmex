@@ -16,7 +16,7 @@ $recipient3 = 'fidelberry1@gmail.com';
 $recipient4 = 'ventas01bb@gmail.com';
 
 $usernameSmtp = 'noreply.tdmex@gmail.com';
-$passwordSmtp = 'oymmohjmfzqimam';
+$passwordSmtp = 'foymmohjmfzqimam';
 $configurationSet = 'ConfigSet';
 $host = 'smtp.gmail.com';
 $port = 587;
