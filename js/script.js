@@ -104,7 +104,7 @@ $(document).ready(function() {
   $('#form').submit(function (event) {
     event.preventDefault();
     grecaptcha.ready(function () {
-        grecaptcha.execute('6LfVwTsgAAAAABS8UvYnHxsboJv9EoiZRQibEgaA', { action: 'registro' }).then(function (token) {
+        grecaptcha.execute('6LdDQFkgAAAAAGhWRRzfbmQOzLQuZv-OOh5jA5VE', { action: 'registro' }).then(function (token) {
             $('#form').prepend('<input type="hidden" name="token" value="' + token + '">');
             $('#form').prepend('<input type="hidden" name="action" value="registro">');
             $('#form').unbind('submit').submit();
@@ -115,7 +115,7 @@ $(document).ready(function() {
 $('#form-s').submit(function (event) {
     event.preventDefault();
     grecaptcha.ready(function () {
-        grecaptcha.execute('6LfVwTsgAAAAABS8UvYnHxsboJv9EoiZRQibEgaA', { action: 'registro' }).then(function (token) {
+        grecaptcha.execute('6LdDQFkgAAAAAGhWRRzfbmQOzLQuZv-OOh5jA5VE', { action: 'registro' }).then(function (token) {
             $('#form-s').prepend('<input type="hidden" name="token" value="' + token + '">');
             $('#form-s').prepend('<input type="hidden" name="action" value="registro">');
             $('#form-s').unbind('submit').submit();
