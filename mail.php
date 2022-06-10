@@ -33,49 +33,42 @@ $bodyHtml = '
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <meta name="x-apple-disable-message-reformatting"/>
-  <link rel="preconnect" href="https://fonts.googleapis.com"/>
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
-  <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@600&display=swap" rel="stylesheet"/>
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap" rel="stylesheet">
-  <title></title>
 </head>
 <body style="margin:0;padding:0;">
-  <table role="presentation" style="width:100%;border-collapse:collapse;border:0;border-spacing:0;background:#ffffff; font-family: sans-serif;">
+  <table role="presentation" style="width:100%;border-collapse:collapse;border:0;border-spacing:0;background:#ffffff; font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
     <tr>
       <td align="center" style="padding:0;">
-        <table role="presentation" style="width:602px;border-collapse:collapse;border:0px solid #cccccc;border-spacing:0;text-align:left; font-family: sans-serif;">
+        <table role="presentation" style="width:602px;border-collapse:collapse;border:0px solid #cccccc;border-spacing:0;text-align:left; font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
           <tr>
-            <td align="left" style="padding:10px 0 30px 0; font-family: sans-serif;">
-              <img src="https://i.postimg.cc/Kz1zh6ft/logo-sidemenu.png" alt="TDMEX" width="200" style="height:auto;display:block;" />
+            <td align="left" style="padding:10px 0 30px 0; font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
+              <img src="https://i.postimg.cc/NGrPHbbd/logo-tdmex-verde.png" alt="TDMEX" width="200" style="height:auto;display:block;" />
               <hr>
             </td>
           </tr>
           <tr>
-            <td style="padding:0px 30px 42px 20px; font-family: sans-serif;">
-              <table role="presentation" style="width:100%;border-collapse:collapse;border:0;border-spacing:0; font-family: sans-serif;">
+            <td style="padding:0px 30px 42px 20px; font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
+              <table role="presentation" style="width:100%;border-collapse:collapse;border:0;border-spacing:0; font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
                 <tr>
-                  <td style="padding:0 0 36px 0;color:#153643; font-family: sans-serif;">
-                    <img src="https://i.postimg.cc/k4Jn15MD/Nuevo-Contacto.png" alt="NUEVO CONTACTO" style="max-width: 500px; margin-left: 50px; margin-bottom: 60px; margin-top: 20px;"/>
-                    <center>
-                      <h4 style="margin:0 0 12px 0;font-size: 20px; text-align: center; font-family: sans-serif;">Se ha capturado un nuevo lead en <b style="font-weight: 600; color: black;">TDMEX</b></h4>
+                  <td style="padding:0 0 36px 0;color: #808080;font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
+                    <img src="https://i.postimg.cc/9fNf3xj3/Nuevo-Contacto-verde-verde.gif" alt="NUEVO CONTACTO" style="max-width: 500px; margin-left: 50px; margin-bottom: 60px; margin-top: 20px;"/>
                       <ul style="color: #aba9a8; list-style: none; text-align: center;">
-                        <li style="margin-bottom: 10px;">Correo electrónico: '.$email.'</li>
-                        <li style="margin-bottom: 10px;">Nombre: '.$nombre.'</li>
-                        <li style="margin-bottom: 10px;">Telefono: '.$telefono.'</li>
-                        <li style="margin-bottom: 10px;">Asunto: '.$asunto.'</li>
-                        <li style="margin-bottom: 10px;">Mensaje: '.$mensaje.'</li>
+                        <li><h4 style="margin:0 0 12px 0;font-size: 20px;  margin-bottom: 50px; font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">Se ha capturado un nuevo lead :</h4></li>
+                        <li style=" font-size: 20px; font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;"><h4><b style="color: #666666;">Correo electrónico: </b>'.$email.'</h4></li>
+                        <li style=" font-size: 20px; font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;"><h4><b style="color: #666666;">Nombre: </b>'.$nombre.'</h4></li>
+                        <li style=" font-size: 20px; font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;"><h4><b style="color: #666666;">Telefono: </b>'.$telefono.'</h4></li>
+                        <li sstyle=" font-size: 20px; font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;"><h4><b style="color: #666666;">Asunto: </b>'.$asunto.'</h4></li>
+                        <li style=" font-size: 20px; font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;"><h4><b style="color: #666666;">Mensaje: </b>'.$mensaje.'</h4></li>
                       </ul>
-                    </center>
                     </td>
                 </tr>
               </table>
             </td>
           </tr>
           <tr>
-            <td style="padding:30px;background:#000000; font-family: sans-serif;">
+            <td style="padding:30px;background:#000000; font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;">
               <table role="presentation" style="width:100%;border-collapse:collapse;border:0;border-spacing:0;font-size:9px; font-family:  sans-serif;">
                 <tr>
-                  <td style="padding:0;width:50%; font-family: sans-serif;" align="right">
+                  <td style="padding:0;width:50%; font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;" align="right">
                     <img src="https://i.postimg.cc/4dpfLLNY/materialized-blueberry.gif" alt="MATERIALIZED BY Blueberry"/>
                   </td>
                 </tr>
